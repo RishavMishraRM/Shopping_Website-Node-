@@ -1,3 +1,3 @@
 # Shopping website
 
-![Alt text](image.png)
+Website Image : ![Alt text](image.png)
